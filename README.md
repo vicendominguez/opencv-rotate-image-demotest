@@ -6,7 +6,7 @@ Description
 
 My tests with opencv rotate image.
 
-<x> and <y> and <z> and <step> must be degrees.
+```<x>``` and ```<y>``` and ```<z>``` and ```<step>``` must be degrees.
 
 Compile
 -------
@@ -28,7 +28,7 @@ Usage
 Notes
 -----
 
-* In my tests i wanna a chroma color (0,255,0) as background.
+* In my tests i wanna chroma color (0,255,0) as background.
 * It is possible to save the output. Check the commented line in the source.
 
 Errors
